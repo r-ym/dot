@@ -8,7 +8,7 @@ export EDITOR="/usr/bin/vim"
 export PATH=/usr/local/opt/ruby/bin:/Users/raman/.nvm/versions/node/v14.15.1/bin:/Users/raman/Library/Python/3.8/bin:/Users/raman/.cargo/bin:/Users/raman/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/raman/Github/r-ym.github.io:
 export PATH="/usr/local/sbin:$PATH"
 source ~/Github/fsh/fast-syntax-highlighting.plugin.zsh
-
+source ~/.nix-profile/etc/profile.d/nix.sh
 export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
 
 # >>> conda initialize >>>
